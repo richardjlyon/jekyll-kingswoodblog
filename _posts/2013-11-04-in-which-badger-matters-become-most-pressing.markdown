@@ -1,6 +1,7 @@
 ---
 title: In which badger matters become most pressing
 layout: post
+category: badgers
 ---
 
 Panic stations!

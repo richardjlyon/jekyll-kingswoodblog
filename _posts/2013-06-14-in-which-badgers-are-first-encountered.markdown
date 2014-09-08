@@ -1,6 +1,7 @@
 ---
 title: In which badgers are first encountered
 layout: post
+category: badgers
 banner: badger.jpg
 ---
 

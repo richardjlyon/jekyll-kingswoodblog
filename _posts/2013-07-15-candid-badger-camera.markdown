@@ -1,6 +1,7 @@
 ---
 title: Candid Badger Camera
 layout: post
+category: badgers
 ---
 
 <iframe src="//player.vimeo.com/video/86388623" width="600" height="390" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen name="Adult and juvenile badgers, filmed at night"></iframe>

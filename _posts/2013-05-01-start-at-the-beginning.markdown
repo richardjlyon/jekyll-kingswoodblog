@@ -1,6 +1,7 @@
 ---
 title: Start at the beginning
 layout: post
+category: design
 banner: render.png
 ---
 

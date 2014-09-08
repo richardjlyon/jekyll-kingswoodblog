@@ -1,6 +1,7 @@
 ---
 title: The nuclear deal with the devil
 layout: post
+category: energy
 banner: faust.png
 ---
 

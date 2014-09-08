@@ -1,6 +1,7 @@
 ---
 title: A badger interlude, and poem
 layout: post
+category: badgers
 ---
 
 TO RECAP: I'm obliged to install a fence-and-flap arrangement to prevent any construction work from disturbing the equanimity of my stripy friends.

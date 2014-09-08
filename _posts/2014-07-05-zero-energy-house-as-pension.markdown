@@ -1,6 +1,7 @@
 ---
 title: The zero energy house as a pension
 layout: post
+category: finance
 banner: pension.jpg
 ---
 

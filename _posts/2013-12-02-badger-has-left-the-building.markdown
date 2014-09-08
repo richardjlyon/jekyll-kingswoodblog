@@ -1,6 +1,7 @@
 ---
 title: Badger has left the building
 layout: post
+category: badgers
 ---
 
 So, after £2,000 expenditure, I have a Badger fence which is visible with the naked eye from space:

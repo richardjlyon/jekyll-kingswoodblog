@@ -1,6 +1,7 @@
 ---
 Title: The energy problem
 layout: post
+category: energy
 ---
 
 **Why build a zero energy house?**
