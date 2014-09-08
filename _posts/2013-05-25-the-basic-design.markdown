@@ -1,5 +1,6 @@
 ---
 Title: The basic design
+layout: post
 ---
 
 Planning permission was secured by the previous owner for an "Earth Ship" style of house, which is all the rage on _Grand Designs_.

@@ -2,17 +2,30 @@
 layout: default
 ---
 
-<div class="home">
 
-  <h1>Posts</h1>
+<p class="intro">
+    We're building a zero energy house on a hill in Edinburgh.</br>
+    It's called "Kingswood".</br>
+    This is the diary of its creation.
+</p>
 
-  <ul class="posts">
+<div>
+
+  <h2>Recently published</h2>
+
+  <ul class="linklist">
+
     {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endfor %}
+
+  </ul>
+
+  <h2>Contact</h2>
+
+  <ul class="linklist">
+      <li>Email : <a href="mailto:richard@richardlyon.net">richard@richardlyon.net</a></li>
+      <li>Twitter : <a href="https://twitter.com/kingswoodpassiv">@kingswoodpassiv</a></li>
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

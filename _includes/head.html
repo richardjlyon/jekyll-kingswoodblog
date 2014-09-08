@@ -1,12 +1,30 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta charset="UTF-8">
+  <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+{% if meta.description %}
+  <meta name="description" content="{{ meta.description }}">
+{% endif %}{% if meta.robots %}
+  <meta name="robots" content="{{ meta.robots }}">
+{% endif %}
+  <meta name="author" content="{{ config.author }}">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="alternate" type="application/atom+xml" href="/feed/">
+  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ theme_url }}/style.css">
+  <script>var _gaq = _gaq || [['_setAccount', 'UA-199097-5'], ['_trackPageview']]</script>
+  <script async="" src="//www.google-analytics.com/ga.js"></script>
+  <style>.pkt_added {text-decoration:none !important;}</style><style>[touch-action="none"]{ -ms-touch-action: none; touch-action: none; }[touch-action="pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; }[touch-action="pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; }[touch-action="scroll"],[touch-action="pan-x pan-y"],[touch-action="pan-y pan-x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; }</style><style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+  .en-markup-crop-options {
+      top: 18px !important;
+      left: 50% !important;
+      margin-left: -90px !important;
+      width: 180px !important;
+      border: 2px rgba(255,255,255,.38) solid !important;
+      border-radius: 4px !important;
+  }
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
+  .en-markup-crop-options div div:first-of-type {
+      margin-left: 0px !important;
+  }
+  </style>
 </head>

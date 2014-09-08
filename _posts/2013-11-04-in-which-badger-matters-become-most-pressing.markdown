@@ -1,12 +1,13 @@
 ---
-Title: In which badger matters become most pressing
+title: In which badger matters become most pressing
+layout: post
 ---
 
 Panic stations!
 
 It transpires that Badgers likes to make baby Badgers during the winter months. To which end, Scottish Natural Heritage will refuse the precious construction works licence, without which no work on the house can commence, between 1st December and 30th June. Who knew?
 
-So it's all hands to the pumps to submit a Badger Mitigation Proposal that will be acceptable to the relevant authorities (not all of whom have declared themselves) before the end of the month. 
+So it's all hands to the pumps to submit a Badger Mitigation Proposal that will be acceptable to the relevant authorities (not all of whom have declared themselves) before the end of the month.
 
 Here's the plan:
 

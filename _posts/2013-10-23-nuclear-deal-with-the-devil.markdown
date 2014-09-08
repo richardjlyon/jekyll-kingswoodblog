@@ -1,6 +1,7 @@
 ---
-Title: The nuclear deal with the devil
-Banner: faust.jpg
+title: The nuclear deal with the devil
+layout: post
+banner: faust.png
 ---
 
 In German legend, magician and alchemist Faust signs a deal with the devil. The devil grants him knowledge and power, for a period. Then the devil takes his soul. Faust discovers the problem inherent in all deals done for present gain without consideration of future consequence.

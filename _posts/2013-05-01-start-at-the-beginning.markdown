@@ -1,15 +1,18 @@
 ---
-Title: Start at the beginning
-Banner: render.png
+title: Start at the beginning
+layout: post
+banner: render.png
 ---
 
-**And so it begins.** 
+**And so it begins. sds**
 
-I have [some land](http://www.kingswood-plot.co.uk). I have a [a book][2], a [talented architect][3], some drawings, and a vague picture in my mind of what I want. 
+sdfsdf
 
-I have some time, and some money, neither in particularly large quantity. 
+I have [some land](http://www.kingswood-plot.co.uk). I have a [a book][2], a [talented architect][3], some drawings, and a vague picture in my mind of what I want.
 
-I have some badgers, and some bats, and some trees, each the subject of different people's affection. 
+I have some time, and some money, neither in particularly large quantity.
+
+I have some badgers, and some bats, and some trees, each the subject of different people's affection.
 
 And I have a large tank, the former Barnton water supply. My job is to construct a home that is comfortable to live in, beautiful to look at, sympathetic to its surrounding, acceptable to my neighbours and planners and, above all else, requires almost no energy to heat.
 
@@ -17,7 +20,7 @@ And I have a large tank, the former Barnton water supply. My job is to construct
 
 It would be fashionable here to profess an interest in icecaps and polar bears, weather patterns and droughts, sea levels and flooded coastal cities, and all these things would be relevant. If it is true that we have [come within five years of triggering irreversible climate change][4], then the carbon dioxide emissions associated with heating our homes matters.
 
-But my motivation is far more immediate than that. 
+But my motivation is far more immediate than that.
 
 Energy will very shortly become unaffordable, then unavailable. I want a home that uses very little energy in keeping me warm and dry because *that is all there will be*.
 
@@ -33,7 +36,7 @@ Thanks for reading – do keep in touch.
 
 ![The tank  –  admittedly, rather unpreposessing at the moment](/images/tank.jpg)
 
-![A gate pillar](/images/tank.jpg)
+![A gate pillar](/images/pillar.jpg)
 
  [2]: http://www.amazon.co.uk/The-Passivhaus-Handbook-constructing-retrofitting/dp/0857840193/ref=sr_1_1?ie=UTF8&qid=1367395350&sr=8-1&keywords=passivhaus+handbook
  [3]: http://www.futurekomfort.com/about-us-steff-bell.php

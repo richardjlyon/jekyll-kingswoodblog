@@ -1,6 +1,7 @@
 ---
-Title: In which badgers are first encountered
-Banner: badger.jpg
+title: In which badgers are first encountered
+layout: post
+banner: badger.jpg
 ---
 
 **There are Badgers in Kingswood.**

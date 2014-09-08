@@ -1,14 +1,15 @@
 ---
 Title: The energy problem
+layout: post
 ---
 
 **Why build a zero energy house?**
 
-Two thirds of all the energy consumed in the world comes from hydrocarbon sources — coal, oil, and gas. The major systems that support our way of life  — industrial agriculture, global industrial manufacturing, global transportation — only work with those hydrocarbon energy sources. 
+Two thirds of all the energy consumed in the world comes from hydrocarbon sources — coal, oil, and gas. The major systems that support our way of life  — industrial agriculture, global industrial manufacturing, global transportation — only work with those hydrocarbon energy sources.
 
-There are three, very serious problems with that arrangement. 
+There are three, very serious problems with that arrangement.
 
-The first problem is that no other energy sources provide the combination of energy density, transportability, stability, convertibility and energy ‘profit’ that these systems depend on. 
+The first problem is that no other energy sources provide the combination of energy density, transportability, stability, convertibility and energy ‘profit’ that these systems depend on.
 
 ## Batteries not included
 We can’t run on electricity the industrial manufacturing and global transportation systems upon which the manufacture of solar and wind devices depends. Worse, hydrocarbon boosts the amount of food available to us through irrigation, fertilisers, pesticides, refrigeration, transportation and processing and we can’t replace those inputs with electricity either. Without hydrocarbon, we can’t build renewable energy devices, or feed ourselves.
@@ -17,7 +18,7 @@ We can’t run on electricity the industrial manufacturing and global transporta
 The second problem is that our atmosphere has reached the limit of its ability to absorb the carbon dioxide that is emitted when hydrocarbon is burned. Daily measurements of CO2 now exceed 400 parts per million for the first time in three million years [1] and the International Energy Agency warned (two years ago) that we are headed for irreversible climate change in five years [2].
 
 ## Fuel warning light
-And the third problem is that the quantity of hydrocarbon energy available to us has reached its all time peak and is now starting to decline at an accelerating rate. 
+And the third problem is that the quantity of hydrocarbon energy available to us has reached its all time peak and is now starting to decline at an accelerating rate.
 
 ![We can't use what we haven't discovered, and discovery peaked in 1970](/images/global-discovery-and-production.png)
 

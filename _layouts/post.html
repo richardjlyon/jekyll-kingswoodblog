@@ -1,15 +1,23 @@
----
-layout: default
----
-<div class="post">
+<!DOCTYPE html>
+<html lang="en" class="articles article">
+{% include head.html %}
+<body style="zoom: 1;">
+{% include globalnav.html %}
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<div class="container">
 
-  <article class="post-content">
-  {{ content }}
+  <article class="pcontent justify">
+    <header>
+      <h1>{{ page.title }}</h1>
+      <p><time datetime="{{ page.date }}" lang="en">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+    </header>
+    {% if page.banner %}
+    <div class="full">
+      <img src="/images/{{ page.banner }}">
+    </div>
+    {% endif %}
+    {{ content }}
   </article>
 
 </div>
+</html>
