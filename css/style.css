@@ -254,10 +254,17 @@ input[type="search"]::-webkit-search-results-decoration {
   margin-bottom: 1.6rem;
   visibility: hidden; }
 
-.pcontent iframe {
+/*.pcontent iframe {
   display: inline-block;
   max-width: 100%;
-  border: none; }
+  border: none; }*/
+
+iframe {
+  display: block;
+  max-width: 28rem;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .pcontent iframe.border {
   border: 1px solid #CCC; }
