@@ -1,7 +1,11 @@
 ---
-Title: The energy problem
+title: The energy problem
 layout: post
 category: energy
+image:
+  - url: global-discovery-and-production.png
+    caption: "We can't use what we havent discovered, and discovery peaked in 1970."
+    alt: 'Global discovery and production'
 ---
 
 **Why build a zero energy house?**
@@ -21,7 +25,7 @@ The second problem is that our atmosphere has reached the limit of its ability t
 ## Fuel warning light
 And the third problem is that the quantity of hydrocarbon energy available to us has reached its all time peak and is now starting to decline at an accelerating rate.
 
-![We can't use what we haven't discovered, and discovery peaked in 1970](/images/global-discovery-and-production.png)
+{% figure_img 0 caption %}
 
 Although we act as though we are free to ignore the limit imposed by our atmosphere, it is this last limit which we are not free to ignore in the short term, and which propels this from a theoretical problem in the distant future to one which will affect us in the timescale of a mortgage.
 

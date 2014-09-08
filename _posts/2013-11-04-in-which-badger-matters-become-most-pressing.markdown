@@ -2,6 +2,10 @@
 title: In which badger matters become most pressing
 layout: post
 category: badgers
+image:
+  - url: Badger-Mitigation-Proposal-Drawing.jpg
+    caption: 'Badger Mitigation Proposal.'
+    alt: 'Badger Mitigation Proposal'
 ---
 
 Panic stations!
@@ -11,7 +15,6 @@ It transpires that Badgers likes to make baby Badgers during the winter months. 
 So it's all hands to the pumps to submit a Badger Mitigation Proposal that will be acceptable to the relevant authorities (not all of whom have declared themselves) before the end of the month.
 
 Here's the plan:
-
-![Badger Mitigation Proposal](/images/Badger-Mitigation-Proposal-Drawing.jpg)
+{% figure_img 0 caption %}
 
 Fingers crossed please, Dear Reader – this could be bumpy.

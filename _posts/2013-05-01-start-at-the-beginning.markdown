@@ -3,6 +3,19 @@ title: Start at the beginning
 layout: post
 category: design
 banner: render.png
+image:
+  - url: aerial.png
+    caption: 'Kingswood from the air.'
+    alt: 'Kingswood from the air'
+  - url: front.jpeg
+    caption: 'Kingswood from the road.'
+    alt: 'Kingswood from the road'
+  - url: tank.jpg
+    caption: 'The tank  –  admittedly, rather unpreposessing at the moment.'
+  - url: pillar.jpg
+    caption: 'A gate pillar.'
+    alt: 'A gate pillar'
+
 ---
 
 **And so it begins. sds**
@@ -31,13 +44,11 @@ But all of that is for future posts. For now, the fascinating task of creating a
 
 Thanks for reading – do keep in touch.
 
-![Kingswood from the air](/images/aerial.png)
+{% figure_img 0 caption %}
+{% figure_img 1 caption %}
+{% figure_img 2 caption %}
+{% figure_img 3 caption %}
 
-![Kingswood from the road](/images/front.jpeg)
-
-![The tank  –  admittedly, rather unpreposessing at the moment](/images/tank.jpg)
-
-![A gate pillar](/images/pillar.jpg)
 
  [2]: http://www.amazon.co.uk/The-Passivhaus-Handbook-constructing-retrofitting/dp/0857840193/ref=sr_1_1?ie=UTF8&qid=1367395350&sr=8-1&keywords=passivhaus+handbook
  [3]: http://www.futurekomfort.com/about-us-steff-bell.php

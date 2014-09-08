@@ -2,6 +2,10 @@
 title: Candid Badger Camera
 layout: post
 category: badgers
+image:
+  - url: hole-in-the-wall.jpg
+    caption: 'The hole in the wall made, apparently, by Badgers.'
+    alt: 'Hole in the wall'
 ---
 
 <iframe src="//player.vimeo.com/video/86388623" width="600" height="390" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen name="Adult and juvenile badgers, filmed at night"></iframe>
@@ -10,7 +14,7 @@ Keen to understand my striped neighbours and their needs a little better, I arra
 
 Yep. Badgers. We find hair, scratched up weeds, and quite a bit of evidence of general Badger to-ing and fro-ing. The colossal hole in the wall is, according to John, likely to be Badgers – they are very strong, he says. I think it more likely to be the work of Badger accomplices, but feel it wiser to keep my opinions to myself (and now, the entire internet).
 
-![The hole in the wall made, apparently, by Badgers](/images/hole-in-the-wall.jpg)
+{% figure_img 0 caption %}
 
 We discuss Badger Fences, Badger Gates, and Badger Corridors.
 
